@@ -1,7 +1,7 @@
-# Halo semua! 
+# Halo! 
 
 Perkenalkan nama saya **Ihsan Mukhlis Ash Shiddiqi**.
 
-Saya seorang Penggemar IT, khususnya pada bidang Android Development dan Web Development.
+Saya mahasiswa Universitas Bina Sarana Informatika program studi Teknologi Informasi.
 
 
